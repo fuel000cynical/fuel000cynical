@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey, I'm Soham (aka fuel000cynical)
 
-<!--
-**fuel000cynical/fuel000cynical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer, learner, and builder — constantly tinkering with tech, education, law, and creative tools. I love working on ideas that *should exist*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects That Define Me
+
+- 🎯 [CtrlTube](https://github.com/fuel000cynical/CtrlTube)  
+  Turn YouTube into your personal learning assistant. Built to kill distraction — and won Best Educational Hack at KT Hack 2025 🏆.
+
+- 🛡️ [CryptIT CTF](https://github.com/fuel000cynical/CryptIT)  
+  Capture-the-Flag event site designed for high school cybersecurity warriors. Clean, modular, and battle-tested.
+
+- 💡 More coming soon... (stay tuned!)
+
+---
+
+## 🛠️ Tech Stack
+
+```plaintext
+Languages: JavaScript | Python | C++ | HTML/CSS | Bash
+Tools: VS Code | Git | Chrome Extensions | Node.js | Firebase
+Domains: Web Dev | Cybersecurity | AI | LegalTech
+```
+
+---
+
+## 🎓 Current Focus
+- Studying Law and Artificial Intelligence ⚖️🤖
+
+---
+
+## 📫 Connect With Me
+GitHub: @fuel000cynical
+LinkedIn: https://www.linkedin.com/in/soham-gupta-b567b2274/
